@@ -53,6 +53,11 @@
       <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/42.2.2/postgresql-42.2.2.jar</url>
+      </library>
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
