@@ -58,6 +58,9 @@
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/42.2.2/postgresql-42.2.2.jar</url>
       </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/42.2.1/postgresql-42.2.1.jar</url>
+      </library>
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
