@@ -50,16 +50,13 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" rolling="false" use="true" version="42.2.1" />
+      <artifact name="PostgreSQL" rolling="false" use="true" version="9.4-1201" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/42.2.2/postgresql-42.2.2.jar</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/42.2.1/postgresql-42.2.1.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/PostgreSQL/9.4-1201/postgresql-9.4-1201.jdbc4.jar</url>
       </library>
     </driver>
     <driver id="redshift">
