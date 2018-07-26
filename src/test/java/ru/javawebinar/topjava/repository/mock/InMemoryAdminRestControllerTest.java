@@ -1,4 +1,4 @@
-package ru.javawebinar.topjava.web;
+package ru.javawebinar.topjava.repository.mock;
 
 import org.junit.*;
 import org.springframework.context.ConfigurableApplicationContext;
