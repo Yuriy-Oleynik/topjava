@@ -1,7 +1,7 @@
 .idea
 .other
-.windows
-.codestyles
+_windows
+codestyles
 out
 target
 *.iml
