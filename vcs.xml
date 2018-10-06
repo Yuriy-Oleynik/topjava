@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Yuriy-Oleynik/spring-petclinic" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/andrii-hreshchik/votingsystem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Юрий" />
